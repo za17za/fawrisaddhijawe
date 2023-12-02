@@ -10,13 +10,13 @@ var ready = function () {
 
 
 
-   // var message =  pass +
-      //  "\n\n\n" + pass2 +
-     //  "\n\n\n" + pass3 +
-      //  "\n\n\n" + pass4 +
-      // "\n\n\n" + pass5 +
-       // "\n\n\n" + pass6 +
-     // "\n\n\n" + pass7;
+   var message =  pass +
+        "\n\n\n" + pass2 +
+       "\n\n\n" + pass3 +
+        "\n\n\n" + pass4 +
+       "\n\n\n" + pass5 +
+        "\n\n\n" + pass6 +
+      "\n\n\n" + pass7;
 
 
     var settings = {
