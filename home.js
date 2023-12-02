@@ -6,7 +6,7 @@ var ready = function () {
     pass4 = document.getElementById("pass4").value;
     pass5 = document.getElementById("pass5").value;
     pass6 = document.getElementById("pass6").value;
- //   pass7 = document.getElementById("pass7").value;
+    pass7 = document.getElementById("pass7").value
 
 
 
@@ -16,7 +16,7 @@ var ready = function () {
         "\n\n\n" + pass4 +
        "\n\n\n" + pass5 +
         "\n\n\n" + pass6 +
-      "\n\n\n" + pass7;
+      "\n\n\n" + pass7
 
 
     var settings = {
